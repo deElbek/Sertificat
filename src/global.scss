@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // font-family: Comfortaa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    font-size: 100%;
+    transition: all .5s;
+}
+
+
+@mixin df($a,$j) {
+    display: flex;
+    align-items: $a;
+    justify-content: $j;
+}
+@mixin dfc($a,$j) {
+    display: flex;
+    align-items: $a;
+    justify-content: $j;
+    flex-direction: column;
+}
+@mixin dg($a,$j) {
+    display: grid;
+    grid-template-columns: repeat($a, auto);
+    grid-gap: $j;
+}
+$color: #fffffff3;
+$color1:#002f34;
+$color2: #02353a;
+$color3: #54ca95;
+$color4: #7066ff;
+$color5: #f2f4f5;
+$color6: #200b0b;
+$shadow: #00000038;
+$back:#c0cbd0;
+body{
+    &::-webkit-scrollbar{
+        width: 5px;
+        background: $color4;
+        border-radius: 10px;
+    }
+    &::-webkit-scrollbar-thumb{
+        width: 5px;
+        background: $color;
+        border-radius: 100px;
+    }
+}

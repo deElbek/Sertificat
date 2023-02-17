@@ -1,0 +1,68 @@
+@import '../../global.scss';
+
+.home{
+    width: 100%;
+    height: 100vh;
+    @include df(center,center);
+    overflow: hidden;
+    position: relative;
+    overflow: hidden;
+    .back{
+        width: 1600px;
+        height: 1600px;
+        border-radius: 3620px;
+        background: #eceaea;
+        position: absolute;
+        left: -400px;
+        z-index: 0;
+        
+    }
+    .main{
+        width: 80%;
+        height: 88%;
+        @include dfc(flex-start,start);
+        position: relative;
+        h2{
+            position: absolute;
+            top: -20px;
+            left: 0px;
+            font-size: 24px;
+            color: $color2;
+        }
+        .bottom{
+            width: 100%;
+            @include dfc(flex-start,start);
+            .top{
+                height: 280px;
+                margin-top: 20px;
+                @include dfc(flex-start,center);
+                h1{
+                    font-size: 55px;
+                    color: $color2;
+                }
+                p{
+                    font-size: 24px;
+                    font-weight: 700;
+                    color: $color2;
+                }
+            }
+            .center{
+                width: 450px;
+                font-size: 24px;
+                font-weight: 700;
+                p{
+                    color: $color2;
+                }
+            }
+            .end{
+                height: 200px;
+                @include df(center,start);
+                .id{
+                    font-size: 65px;
+                    font-weight: 700;
+                    color: rgb(158, 158, 241);
+                }
+            }
+        }
+    }
+}
