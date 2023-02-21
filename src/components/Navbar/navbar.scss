@@ -3,7 +3,10 @@
 nav {
     width: 100%;
     height: 85px;
-    background: #02353a;
+    background: #42495B;
+    position: fixed;
+    top: 0;
+    left: 0;
     @include df(center, space-between);
     padding-right: 40px;
     box-shadow: -2px 2px 7px $color1;
@@ -28,8 +31,7 @@ nav {
 
         a {
             color: $color;
-            font-weight: bold;
-            font-size: 23px;
+            font-size: 20px;
 
             &:hover {
                 color: $color3;
@@ -39,14 +41,14 @@ nav {
         }
 
         .link {
-            font-size: 23px;
+            font-size: 20px;
             color: $color;
             font-weight: bold;
             position: relative;
 
             input {
                 width: 210px;
-                height: 40px;
+                height: 35px;
                 border-radius: 6px;
                 padding-left: 15px;
                 font-weight: bold;
@@ -55,7 +57,7 @@ nav {
                 position: absolute;
                 top: 0px;
                 width: 40px;
-                height: 40px;
+                height: 35px;
                 border-radius: 6px;
                 background: #fff;
                 @include df(center,center);
@@ -69,7 +71,7 @@ nav {
         select {
             margin-left: 40px;
             width: 60px;
-            height: 40px;
+            height: 35px;
             border-radius: 6px;
             option{
                 width: 80px;

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="174191a4-0525-4f3d-aa2d-ab62d499e5ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg.js" beforeDir="false" afterPath="$PROJECT_DIR$/cfg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar/navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/home/h.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/page/home/h.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/home/h.scss" beforeDir="false" afterPath="$PROJECT_DIR$/page/home/h.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/sertificat/s.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/page/sertificat/s.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/sertificat/s.scss" beforeDir="false" afterPath="$PROJECT_DIR$/page/sertificat/s.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ls6vAyQygrNOU5t58shK3AALD4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Rabochiy stol/Mern Stack/Uzbek Coders/dahsboard/sertificat-uz/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="174191a4-0525-4f3d-aa2d-ab62d499e5ce" name="Changes" comment="" />
+      <created>1676647670996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676647670996</updated>
+      <workItem from="1676647672078" duration="4530000" />
+      <workItem from="1676729864359" duration="4094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

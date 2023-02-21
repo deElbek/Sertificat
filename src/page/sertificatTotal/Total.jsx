@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './styles.module.css'
-import img from '../../as.jpg'
+import img from '../../view/images/as.jpg'
 
 function Total() {
     return ( 
